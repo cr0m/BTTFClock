@@ -30,13 +30,4 @@ $response[0] = array(
 );
 
 echo json_encode($response);
-
 ?>
-
-
-
-
-
-
-
-
